@@ -57,7 +57,7 @@ In this task, we will create a network security group and associate it with the 
 
 1. From the **All services** blade, search for and select **Network security groups** and then click **+ Add**
 
-2. On the **Basics** tab of the **Create network security group** blade,replace [DeploymentId] which is present environment details, specify the following settings.
+2. On the **Basics** tab of the **Create network security group** blade,replace [DeploymentId] which is present in environment details, specify the following settings.
 
     | Setting | Value |
     | -- | -- |
