@@ -1,7 +1,5 @@
 # AZ-900T00 and AZ-900T01: Microsoft Azure Fundamentals
 
-> **There is a [Lab Recordings and Demos](https://github.com/MicrosoftLearning/Lab-Demo-Recordings) repo with links to videos of labs used in Microsoft Official Curriculum. The intent is to provide Microsoft Certified Trainers an easy way to access a non-audio version recording of hands-on labs used in the portfolio.**
-
 - **[Link to Walkthroughs (HTML format)](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
@@ -15,19 +13,19 @@
 
 - The instructor handbook and PowerPoints are still going to be your primary source for teaching the course content.
 
-- These files on GitHub are designed to be used in conjunction with the student handbook, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab files.
+- These files on GitHub are designed to be used in conjunction with the student handbook but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab files.
 
 - It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
 
 ## What about changes to the student handbook?
 
-- We will review the student handbook on a quarterly basis and update through the normal MOC release channels as needed.
+- We will review the student handbook on a quarterly basis and update it through the normal MOC release channels as needed.
 
 ## How do I contribute?
 
-- Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
+- Any MCT can submit a pull request to the code or content in the GitHub repo, Microsoft and the course author will triage and include content and lab code changes as needed.
 
-- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
+- You can submit bugs, changes, improvements, and ideas.  Find a new Azure feature before we have it?  Submit a new demo!
 
 ## Notes
 
