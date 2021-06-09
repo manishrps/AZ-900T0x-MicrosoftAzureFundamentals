@@ -1,6 +1,6 @@
 # 14 - Manage access with RBAC
 
-In this walkthrough, we will assign roles and view activity logs. 
+In this walkthrough, we will assign permission roles to resources and view logs.
 
 # Task 1: View and assign roles
 
